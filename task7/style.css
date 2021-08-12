@@ -1,0 +1,16 @@
+.buttonStart{
+    background-color: rgb(8, 169, 243);
+}
+
+.results{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(195, 248, 255);
+    width: 500px;
+    max-height: 2500px;
+    font-size: 14px;
+} 
+
+li.serachCompleted {
+    text-decoration: line-through;
+  }

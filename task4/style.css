@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+}
+
+.select_top{
+    display: flex;
+    
+}
+
+.result {
+    display: flex;
+    flex-direction: column;
+}
+
+.result_top{
+    display: flex;
+    flex-direction:row;
+}
+
+.result_value{
+    display: flex;
+    flex-direction:row;
+}
+
+.result_top div{
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;
+}
+
+.result_value div{
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;
+}
+
+.warn{
+    color: blue;
+}
+
+
